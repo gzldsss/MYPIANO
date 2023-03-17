@@ -12,3 +12,5 @@ This is a code for openFrameworks that loads and plays sounds, displays an image
 The screen is divided into seven parts, and each part is used to display information about a specific sound. The text includes the sound name, progress, speed, and instructions on how to play the sound. When a sound is playing, its text turns red.
 
 The sounds are: background music, rain, cymbal, finger snap, punch, piano, and bass. The **setMultiPlay()** function is used to prevent the sounds from playing simultaneously.
+##
+The process of doing this homework is pleasant, because I like music very much, and I hope that I can make some music by myself in the future, and I can make interesting codes that can edit music. This homework gave me a deeper understanding of openframeworks, and I will continue to learn.
